@@ -25,12 +25,6 @@ cc_library_static {
             },
         },
     },
-
-    arch: {
-        arm: {
-            instruction_set: "arm",
-        },
-    },
     export_include_dirs: ["."],
 }
 

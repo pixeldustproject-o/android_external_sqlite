@@ -115,12 +115,6 @@ cc_library {
         },
     },
 
-    arch: {
-        arm: {
-            instruction_set: "arm",
-        },
-    },
-
     export_include_dirs: ["."],
 }
 
